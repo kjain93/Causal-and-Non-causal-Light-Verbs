@@ -1,6 +1,7 @@
 # Identifying Causal and Non-causal verb alternations in Hindi
 
-Provides a framework to identify causative (causal) and anticausatives (non-causal) for Light Verb Constructions (LVC) found in Hindi
+Provides a framework to identify causative (causal) and anticausatives (non-causal) for Light Verb Constructions (LVC) found in Hindi.
+
 For the analysis the focus was on finding nouns occuring with both /kar/ 'do' and /ho/ 'be' verbs in Hindi. The occurence of nouns with /kar/ in a LVC is taken as causative and with /ho/ as anticausative as suugested in [2].
 
 Data: HDTB corpus is used and can be downloaded from here: https://github.com/UniversalDependencies/UD_Hindi-HDTB
